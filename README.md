@@ -1,2 +1,2 @@
 # coursera_test
-Learning coursera :)
+Learning with coursera :)
